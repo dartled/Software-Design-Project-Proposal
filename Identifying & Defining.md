@@ -1,3 +1,13 @@
+# Identifying A Need
+
+Idea: Tower Defense Game
+
+Need: Enhance critical thinking and strategy within players by creating an enjoyable and challenging tower defense game which can improve logical thinking, decision making, resource management.
+
+Problem Statement: A tower defense game requires players to defend a tower from enemies by using (in-game) money to buy units. This can train decision-making and resource management within the target audience.
+
+Skill Development: Strategy, Planning, Resource Management
+
 # Requirements Outline:
 
 __Inputs:__
